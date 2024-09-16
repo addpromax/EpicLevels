@@ -120,7 +120,7 @@
 
         <repository>
             <id>placeholderapiold</id>
-            <url>https://minevolt.net/repo/me/clip/placeholderapi/</url>
+            <url>https://minevolt.net/repo/</url>
         </repository>
     </repositories>
 
